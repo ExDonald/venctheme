@@ -10,6 +10,10 @@
 
 @import url('https://clearvision.gitlab.io/v6/main.css');
 
+#vc-spotify-player {
+  background: none !important;
+}
+
 :root {
   --main-color: #2780e6;
   --hover-color: #1e63b3;
